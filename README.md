@@ -1,18 +1,20 @@
 # Employee-Attrition-Prediction-Data-Analysis
 ![image](https://github.com/user-attachments/assets/32feb95c-d490-4de5-9fff-092d938e495f)
 
-# Data Acquisition:
+# Methodology
+
+* **Data Acquisition:**
 Run the query of Employee attrition dataset into PostgreSQL which includes demographics, job roles, performance metrics, and attrition status.
-**Data Exploration:**
+* **Data Exploration:**
 Conducted exploratory data analysis (EDA) to understand the distribution of key variables such as age, department, job satisfaction, and tenure. Visualized data using SQL queries to identify initial patterns and correlations.
 
-**Trend Analysis:**
+* **Trend Analysis:**
 Analyzed relationships between demographic factors, job roles, and attrition rates to uncover potential predictors of turnover. Segmented the data to examine retention rates across different departments, job levels, and employee demographics.
 
-# SQL Data Manipulation:
+* **SQL Data Manipulation:**
 Applied SQL techniques for data retrieval, filtering, and aggregation to generate insights. Calculated metrics such as retention rates, average tenure, and attrition trends by various employee segments.
 
-**Schema Evaluation:**
+* **Schema Evaluation:**
 Reviewed the database schema for redundancy and integrity. Suggested optimizations to improve data quality, reduce redundancy, and enhance performance.
 
 # Project Deliverables:
