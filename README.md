@@ -30,4 +30,5 @@ Reviewed the database schema for redundancy and integrity. Suggested optimizatio
 * Implement machine learning models to forecast employee attrition and identify at-risk employees.
 * Create dashboards to visualize key attrition metrics and track trends for real-time insights.
 * Integrate additional data sources and continuously monitor attrition metrics to refine analysis and improve retention strategies
+  
 In summary, this project has demonstrated the power of SQL in analyzing employee attrition data, uncovering key factors influencing turnover, and providing actionable insights. By leveraging predictive modeling and interactive dashboards, we can effectively identify at-risk employees and monitor retention trends. The project sets a strong foundation for further exploration and refinement of strategies aimed at enhancing employee retention and fostering a more stable workforce.
